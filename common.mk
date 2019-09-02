@@ -88,7 +88,8 @@ PRODUCT_PACKAGES += \
     AEXPapers \
     OmniStyle \
     CalendarWidget \
-    Turbo
+    Turbo \
+    Lawnchair
 
 # Include explicitly to work around Facelock issues
 PRODUCT_PACKAGES += \
