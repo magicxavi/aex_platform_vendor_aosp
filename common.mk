@@ -88,6 +88,7 @@ PRODUCT_PACKAGES += \
     AEXPapers \
     OmniStyle \
     CalendarWidget \
+    SnapdragonCamera \
     Turbo \
     Lawnchair
 
