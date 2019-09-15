@@ -82,13 +82,15 @@ PRODUCT_PACKAGES += \
     strace \
     ThemeInterfacer \
     Terminal \
-    Launcher3 \
     WallpaperPickerGoogle \
     ViaBrowser \
     AEXPapers \
     OmniStyle \
     CalendarWidget \
     SnapdragonCamera \
+	SnapdragonCamera2 \
+	Snap2 \
+	Camera2 \
     Turbo \
     Lawnchair
 
