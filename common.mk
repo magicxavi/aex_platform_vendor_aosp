@@ -83,7 +83,7 @@ PRODUCT_PACKAGES += \
     ThemeInterfacer \
     Terminal \
     WallpaperPickerGoogle \
-    ViaBrowser \
+    OperaMini \
     AEXPapers \
     OmniStyle \
     CalendarWidget \
