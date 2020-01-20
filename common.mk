@@ -185,7 +185,7 @@ PRODUCT_PACKAGES += \
 	messaging \
 	LiveWallpapers \
 	LiveWallpapersPicker \
-        RetroMusicPlayer \
+    StellioPlayerPremium \
 	OmniJaws
 
 $(call inherit-product, vendor/aosp/config/aex_props.mk)

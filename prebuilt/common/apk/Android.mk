@@ -58,7 +58,7 @@ include $(BUILD_PREBUILT)
 #Retro Music Player
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := RetroMusicPlayer
+LOCAL_MODULE := StellioPlayerPremium
 LOCAL_SRC_FILES := $(LOCAL_MODULE).apk
 LOCAL_MODULE_CLASS := APPS
 LOCAL_MODULE_TAGS := optional
