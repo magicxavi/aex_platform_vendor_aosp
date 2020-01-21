@@ -92,7 +92,8 @@ PRODUCT_PACKAGES += \
 	Snap2 \
 	Camera2 \
     Turbo \
-    Lawnchair
+    Lawnchair \
+    substratum
 
 # Include explicitly to work around Facelock issues
 PRODUCT_PACKAGES += \
